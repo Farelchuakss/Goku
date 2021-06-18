@@ -1,11 +1,11 @@
 <h2 align="center"><b>MENAGE: <a href="https://telegram.dog/mixiologist">GOKU</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ramadhani892/Goku">
+   <a href="https://github.com/farelchuakss/kevin">
    <br>
    <br>
 </p>
-<h1>RAMA BOT</h1>
+<h1>FAREL USERBOT</h1>
 <
 
 ## How to setup/deploy.
